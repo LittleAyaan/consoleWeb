@@ -34,7 +34,7 @@ Then, print the variable to display the subtraction value
 
 Type: console.log(sub)
 */
-            var sub =a - b  ;
+            var sub = a - b  ;
             console.log(sub);
 
 /*
